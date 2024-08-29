@@ -1,0 +1,193 @@
+.backimg>img{
+    width: 100%;
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -2;
+    background-image: linear-gradient(180deg , rgb(8, 8, 8),rgb(0,0,0));
+
+}
+.icons{
+    display: flex;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    gap: 20px;
+
+}
+.linear{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    background-image: linear-gradient(180deg , rgb(8, 8, 8),rgb(0,0,0));
+    z-index: 1;
+}
+.texttop{
+    display: flex;
+    gap: 20px;
+    font-family: sans-serif;
+
+}
+.start{
+    font-weight: 850;
+    font-family: sans-serif;
+}
+.title>img{
+    width: 90px;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+}
+.start{
+    font-family: sans-serif;
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 140px;
+
+}
+.texttop{
+    font-family: sans-serif;
+    color: white;
+    position:absolute;
+    top: 18px;
+    left: 200px;
+}
+
+.mainlogo>img{
+    width: 18px;
+    height: 35px;
+    
+
+}
+.mainlogo{
+    position: absolute;
+    top: 420px;
+    left: 70px;
+    
+}
+.show{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    top: 430px;
+    left: 100px;
+    font-size: 20px;
+    font-weight: 700;
+
+    
+}
+.maid{
+    font-family: sans-serif;
+    color: white;
+    position: relative;
+    font-size: 140px;
+    font-weight: 850;
+    top: 350px;
+    left: 50px;
+
+}
+.playimg{
+    background-color: white;
+    width:95px;
+    height: 35px;
+    border-radius: 5px;
+    position: absolute;
+    top: 620px;
+    left: 70px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.vector{
+    position: relative;
+    top: 615px;
+    left: 190px;
+    background-color: rgba(240, 232, 232, 0.799);
+    width: 130px;
+    height: 38px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.vector>img{
+    width: 15px;
+    margin-left: 15px;
+}
+
+.playimg>img{
+    margin-left: 10px;
+}
+.play{
+    position: absolute;
+    top: 625px;
+    left: 110px;
+    font-size: 20px;
+
+
+}
+.moreinfo{
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: 585px;
+    left:240px ;
+
+}
+
+.plus{
+    position: absolute;
+    right: 5px;
+    bottom: 10px;
+}
+
+.seeagain{
+    position: absolute;
+    top: 740px;
+    left: 80px;
+    font-family: sans-serif;
+    color: white;
+    
+}
+.arrow{
+    position: relative;
+    top: 480px;
+    left: 150px;
+
+}
+.arrow>img{
+    width: 15px;
+}
+
+.topimgg{
+    position: absolute;
+    top: 810px;
+    left: 70px;
+}
+.topimgg>img{
+    width: 270px;
+    margin: 7px;
+}
+body{
+    background-color: black;
+}
+.text1{
+    position: absolute;
+    top: 1050px;
+    left: 70px;
+    color: white;
+
+}
+.arrow{
+    position: relative;
+    top: 795px;
+    left: 230px;
+
+}
+.arrow>img{
+    width: 15px;
+}
